@@ -1,12 +1,11 @@
-# first-project
-![Logo](https://github.com/aajalii01/aajalii01/blob/main/Github%20Banner.png?raw=true)
+![Logo](https://github.com/hppy7/hppy7/blob/main/Github%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sundhir Singh</h1>
 <h3 align="center">B.Tech Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aajalii01&label=Profile%20views&color=0e75b6&style=flat" alt="aajalii01" /> 
+  <img src="https://komarev.com/ghpvc/?username=hppy7&label=Profile%20views&color=0e75b6&style=flat" alt="hppy7" /> 
 </p>
 
 <p align="left"> 
@@ -16,7 +15,7 @@
 </p>
 
 - 🌱 I’m currently learning C, C++, Java
-- 👯 I’m looking to collaborate on [Detection Weather Email is Phishing or Not](https://github.com/aajalii01/hppy-7.git)
+- 👯 I’m looking to collaborate on [Detection Weather Email is Phishing or Not](https://github.com/hppy7/hppy-7.git)
 - 📫 How to reach me: happysohil1234@gmail.com
 - ⚡ Fun fact: A smile is a powerful tool to overcome the problems of life, so be happy!
 
@@ -49,10 +48,10 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aajalii01&show_icons=true&locale=en&layout=compact" alt="aajalii01" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hppy7&show_icons=true&locale=en&layout=compact" alt="hppy7" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aajalii01&show_icons=true&locale=en" alt="aajalii01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hppy7&show_icons=true&locale=en" alt="hppy7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aajalii01&" alt="aajalii01" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hppy7&" alt="hppy7" /></p> 
 <img align="right" alt="coding" width="100%" height="350" src="https://cdn-ilbndhj.nitrocdn.com/PWZHubCmElPjVCuBboIKwttcXvQILvxf/assets/images/optimized/rev-4b904cc/www.keyfactor.com/wp-content/uploads/iStock-1256603011.jpg">
